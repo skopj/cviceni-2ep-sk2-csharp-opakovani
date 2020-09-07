@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace cviceni_cs_opakovani
+namespace _01_HelloWorld
 {
     class Program
     {
